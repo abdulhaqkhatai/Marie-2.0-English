@@ -21,7 +21,7 @@ PM_START_TEXT = """
 Hey {}, if you have any questions about how to use me please give me /help... 
 
 I'm a group manager bot. Maintained by @souk26
-I Work In @Moviesbazz2 Group 😁
+I Work In @Moviesbazz2 & @Gtorleech Group 😁
 
 
 
